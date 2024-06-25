@@ -7,7 +7,7 @@ Attach Script for Community CAD
 - Download the Latest Version
 - Rename the folder to `cc-attach`
 - Drag Into your `resources` Folder
-- Put "ensure cc-attach" in your server.cfg
+- Put `ensure cc-attach` in your server.cfg
 
 
 ## Configuration
@@ -16,8 +16,8 @@ The resource includes one config file to get you up and running!
 
 ### `config.lua`
 
-- `cadURL`: The URL Of Your CAD - Example https://community.communitycad.app
-- `api_key`: Your CAD API Key 
+- `Config.ApiUrl`: The URL Of Your CAD - Example https://community.communitycad.app
+- `Config.ApiKey`: Your CAD API Key 
 
 ## Dependencies
 
