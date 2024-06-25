@@ -14,8 +14,6 @@ Attach Script for Community CAD
 
 The resource includes one config file to get you up and running!
 
-## config.lua
-
 - `Config.ApiUrl`: The URL Of Your CAD - Example https://community.communitycad.app
 - `Config.ApiKey`: Your CAD API Key 
 
